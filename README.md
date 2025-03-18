@@ -11,7 +11,7 @@ This repository contains the implementation of a **Personalized Medical Recommen
 ## Prerequisites
 Before running the project, ensure you have:
 - Python 3.8 or above
-- Required dependencies listed in `requirements.txt`
+
 
 ## Installation
 1. Clone the repository:
@@ -24,9 +24,10 @@ Before running the project, ensure you have:
    ```
 3. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install flask numpy pandas
    ```
-
+etc. libraries
+ 
 ## Usage
 1. Run the main script:
    ```bash
